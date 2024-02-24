@@ -98,12 +98,6 @@ By leveraging the potential of technology and community-driven efforts, Feed For
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="display: flex; flex-direction: row;">
-<img src = "https://user-images.githubusercontent.com/107645749/235868210-eb8480fb-ad6f-40e9-983a-95d62529b6f7.jpg" width="250" height="600">&nbsp;&nbsp;&nbsp;
-<img src = "https://user-images.githubusercontent.com/107645749/235867949-0422da8e-5b6e-4199-bd1f-37876a0ad226.jpg" width="250" height="600">&nbsp;&nbsp;&nbsp;
-<img src = "https://user-images.githubusercontent.com/107645749/235867927-6c209548-466c-4829-a2eb-88c97fbd8791.jpg" width="250" height="600">&nbsp;&nbsp;&nbsp;
-</div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div style="display: flex; flex-direction: row;">
 <img src = "https://user-images.githubusercontent.com/107645749/235867976-9f310065-d87e-4e71-a819-15583c19963a.jpg" width="250" height="600">&nbsp;&nbsp;&nbsp;
 <img src = "https://user-images.githubusercontent.com/107645749/235867908-6538da47-9ecb-4aaa-b53a-db797de7b4fc.jpg" width="250" height="600">&nbsp;&nbsp;&nbsp;
 <img src = "https://user-images.githubusercontent.com/107645749/235868191-d990ccbe-30f5-43c6-8a2e-9ce8ece59351.jpg" width="250" height="600">&nbsp;&nbsp;&nbsp;
@@ -171,9 +165,7 @@ The app partners with local NGOs and charitable organizations to ensure that don
 Feed Forward relies on a combination of monetary donations and grants to cover its operational costs and support its mission. The app also partners with NGO's and other organizations to promote food donation and reduce waste.
 
 
-## Feedback
 
-If you have any feedback, please reach out to us @ zerohunger.mtmk@gmail.com
 
 
 
